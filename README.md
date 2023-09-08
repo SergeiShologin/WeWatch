@@ -1,4 +1,6 @@
-<img width="600" align="center" alt="Screenshot_1" src="https://github.com/SergeiShologin/WeWatch/assets/101599910/f63cb701-4b71-4414-bf3d-cee74f7c87b8">
+<p align="center">
+  <img src="https://github.com/SergeiShologin/WeWatch/assets/101599910/90ac0137-23a3-4c7c-bfc4-dfa66e136420" />
+</p>
 
 # :film_strip: WeWatch
 
