@@ -4,7 +4,7 @@
 
 # :film_strip: WeWatch
 
-WeWatch - it is a web application for watching videos together with friends, featuring text and video chat functions. 
+WeWatch - it is a web application for watching films or TV series together with friends, featuring text and video chat functions. 
 
 ## :hammer_and_wrench: Tech Stacks :
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
