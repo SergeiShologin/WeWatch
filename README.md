@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SergeiShologin/WeWatch/assets/101599910/90ac0137-23a3-4c7c-bfc4-dfa66e136420" />
+  <img width="600" src="https://github.com/SergeiShologin/WeWatch/assets/101599910/90ac0137-23a3-4c7c-bfc4-dfa66e136420" />
 </p>
 
 # :film_strip: WeWatch
