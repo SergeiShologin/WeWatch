@@ -10,7 +10,7 @@ import { Root } from "./components/Root";
 import { Register } from "./pages/register";
 import { Auth } from "./pages/auth";
 import { Room } from "./pages/room";
-import { store } from "./store/store";
+import { store } from "./redux/store";
 import { theme } from "./theme/theme"
 
 const router = createBrowserRouter([
